@@ -344,22 +344,22 @@ function creaRooms()
 
 function hotels()
 {
-    servizio("http://localhost:8080/hotels");
+    servizio("https://farinagabriele-cautious-chainsaw-gvg4rpq95jph9p64-8080.preview.app.github.dev/hotels");
 }
 
 function flights()
 {
-    servizio("http://localhost:8080/flights");
+    servizio("https://farinagabriele-cautious-chainsaw-gvg4rpq95jph9p64-8080.preview.app.github.dev/flights");
 }
 
 function restaurants()
 {
-    servizio("http://localhost:8080/restaurants");
+    servizio("https://farinagabriele-cautious-chainsaw-gvg4rpq95jph9p64-8080.preview.app.github.dev/restaurants");
 }
 
 function places()
 {
-    servizio("http://localhost:8080/places");
+    servizio("https://farinagabriele-cautious-chainsaw-gvg4rpq95jph9p64-8080.preview.app.github.dev/places");
 }
 
 window.addEventListener('load', hotels());
