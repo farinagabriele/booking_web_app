@@ -1,0 +1,28 @@
+body{
+    background-color:yellowgreen;
+    font-size:13pt;
+    font-style:Arial;
+}  
+h1{
+    color: purple;
+    font-style:times new roman;
+    font-size:22;
+    text-align:center;
+}
+     
+p{
+    font-size:12px ;
+    text-align:left;
+}
+.figlia{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+p{
+    font-size: 25px;
+}
+th{
+    color: rgb(255, 251, 0); 
+}

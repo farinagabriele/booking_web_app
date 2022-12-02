@@ -1,0 +1,75 @@
+tr{
+    width:40px;
+    height: 20px;
+}
+
+/*
+.rigaTabelle{
+    background-color: purple;
+}
+*/
+
+img{
+    width: 130px;
+}
+
+body {
+    background-color:yellowgreen;
+}
+
+.cellaTabella{
+    border-color:hotpink ;
+    background-color:burlywood;
+    color:black;
+    border-style: solid;
+    text-align: left;
+    font-style: italic;
+    font-size: medium;
+    width:400px;
+    height: 300px;
+}
+
+
+button{
+    
+    background-color: lightblue;
+    
+    text-align: center;
+    width: 100px;
+    height: 25px;
+
+}
+
+.viewMore{
+    margin-left: 150px;
+}
+#logo{
+    width:30%; 
+    height:20%;
+    font-weight:bolder;
+}
+#menus{
+    width: 70%;
+    height: 30%;
+
+}
+#utente{
+    width:40%;
+    height: 80%;
+
+}
+#griglia{
+    width:60%;
+    height:70%;
+}
+
+.rigaMenu{
+    width: 150px;
+    height: 200px;
+}
+
+.imageItem{
+    width:100px;
+    height: 100px;
+}
+
